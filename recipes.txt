@@ -1,0 +1,40 @@
+2
+Chocolate chip cookies
+12
+cookies
+4
+flour
+1
+cup(s)
+butter
+8
+tablespoon(s)
+sugar
+1
+cup(s)
+chocolate chips
+1
+cup(s)
+3
+Mix all ingredients together
+Form cookie dough into 12 equal-sized balls
+Bake it at some temperature for some amount of time
+Grilled cheese sandwich
+1
+sandwich
+3
+bread
+2
+slice(s)
+butter
+2
+tablespoon(s)
+your favorite cheese
+2
+slice(s)
+5
+Heat skillet on medium-low heat
+Assemble sandwich
+Melt butter in skillet
+Cook sandwich on one side for 3 minutes
+Flip sandwich and cook on the other side for another 3 minutes
